@@ -2,8 +2,6 @@
 
 You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v3-0/master/awesome.gif)
-
 Now you will put your new skills to use with a large end-of-Phase project!
 
 In this project description, we will cover:
@@ -282,7 +280,21 @@ Unable to prepare data using `pandas`
 
 ### Interactive Data Visualization
 
-TODO
+Tableau is a powerful data analysis tool that allows data to be presented in a manner that allows it to be easily digestible with visualizations and charts to aid in the simplification of the data and its analysis. Tableau contains many customizable features and makes it easy to share in many ways. We recommend you use Tableau for your interactive data visualization now that you have experience with it.
+
+Here are the definitions of each rubric level for this objective.
+
+#### Exceeds Objective
+Creates an easy to use dashboard to answer business questions
+
+#### Meets Objective
+Successfully creates a dashboard to answer business questions
+
+#### Approaching Objective
+Creates a dashboard, but it is difficult to use
+
+#### Does Not Meet Objective
+Unable to create a dashboard 
 
 ## Getting Started
 
@@ -291,12 +303,11 @@ Please start by reviewing the contents of this project description. If you have 
 Next, you will need to complete the [***Project Proposal***](#project_proposal) which must be reviewed by your instructor before you can continue with the project.
 
 Then, you will need to create a GitHub repository. There are three options:
-
+Interactive Data Visualization
 1. Look at the [Phase 1 Project Templates and Examples repo](https://github.com/learn-co-curriculum/dsc-project-template) and follow the directions in the MVP branch.
 2. Fork the [Phase 1 Project Repository](https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-4), clone it locally, and work in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
 3. Create a new repository from scratch by going to [github.com/new](https://github.com/new) and copying the data files from one of the above resources into your new repository. This approach will result in the most professional-looking portfolio repository, but can be more complicated to use. So if you are getting stuck with this option, try one of the above options instead.
 
 ## Summary
-
 This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
 
